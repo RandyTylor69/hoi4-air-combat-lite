@@ -44,7 +44,7 @@ public class Main {
         // System.out.println(" ");
         // System.out.println(zero);
 
-        // yooo
+        // please work
 
         combat.showCombat();
     }
